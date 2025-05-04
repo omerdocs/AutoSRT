@@ -1,4 +1,4 @@
-# AutoSRT
+# EasySRT
 <div align="center">
   <h1>🎬 EasySRT</h1>
   <p>Ses ve video dosyalarınızı Whisper modeliyle zaman damgalı altyazılara dönüştüren ve canlı düzenleme yapabilmenizi sağlayan Python uygulaması.</p>
