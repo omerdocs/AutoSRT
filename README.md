@@ -37,8 +37,7 @@
 
 ## 📷 Ekran Görüntüsü
 
-> 📌 Yakında eklenecek!  
-_(İpucu: Projen çalışır durumda olduğunda burada uygulamadan bir arayüz veya terminal ekran görüntüsü paylaşabilirsin.)_
+> 📌 Ekran görüntüleri yakında buraya eklenecek. 
 
 ---
 
@@ -48,30 +47,13 @@ _(İpucu: Projen çalışır durumda olduğunda burada uygulamadan bir arayüz v
 
 ### Minimum Gereksinimler:
 
-- Python 3.11+
-- OpenAI Whisper  
-- ffmpeg  
-- (Diğer bağımlılıklar requirements.txt ile belirlenecek)
+> 📌 Gereksinimler yakında buraya eklenecek.
 
 ---
 
-## 🎮 Kullanım
+## 🎮 Kullanım talimatları
 
-1. Proje dizinini klonlayın:
-   ```bash
-   git clone https://github.com/kullaniciadi/EasySRT.git
-   cd EasySRT
-   ```
-
-2. (Varsa) ortam değişkenlerini ve gerekli kütüphaneleri yükleyin:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Çalıştırmak için:
-   ```bash
-   python main.py
-   ```
+> 📌 Kullanım talimatları yakında buraya eklenecek.
 
 ---
 
